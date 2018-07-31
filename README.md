@@ -57,7 +57,7 @@ Am awesome collection of personal finance resources. Updated regularly.
  |[Mr. Money Mustache](https://www.mrmoneymustache.com/)|Focused on saving for early retirement
  |[Nick Maggiulli (Of Dollars and Data](https://ofdollarsanddata.com/)|Data analysis based personal finance
  |[The Billfold](https://www.thebillfold.com/)|General publication on saving and personal finance
- |[Growthfolio](https://medium.com/growthfolio)| My personal blog that shares what finance advice works to help live a happier, stress free life.
+ |[Growthfolio](https://medium.com/growthfolio)| My personal blog that shares what finance advice works for living a happier life.
  
 # Housing
 | Link          | Description   |
