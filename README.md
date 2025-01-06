@@ -5,6 +5,7 @@ Am awesome collection of personal finance resources. Updated regularly.
 | Link          | Description   |
 |:-------------:|:-------------:|
 |[Motley Fool](https://www.fool.com/)|Advice for investing beginners and experts as well as important up to date news|
+|[ChaChing Social](https://www.chachingsocial.com/)|Social media site dedicate to sound financial discussions driven by content and financial experts|
 |[Investopedia](https://www.investopedia.com/)|Encyclopedia for all things investing & investment simulation game|
 
 # Investing Services
