@@ -6,6 +6,7 @@ Am awesome collection of personal finance resources. Updated regularly.
 |:-------------:|:-------------:|
 |[Motley Fool](https://www.fool.com/)|Advice for investing beginners and experts as well as important up to date news|
 |[Investopedia](https://www.investopedia.com/)|Encyclopedia for all things investing & investment simulation game|
+|[KeepRule](https://keeprule.com/)|Searchable database of 1,377 investment principles from 26 legendary investors (Buffett, Munger, Dalio, Marks) with AI chat|
 
 # Investing Services
 | Link          | Description   |
