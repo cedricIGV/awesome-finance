@@ -42,6 +42,7 @@ Am awesome collection of personal finance resources. Updated regularly.
  |[Count About](https://countabout.com/)|Syncs quicken or mint budgets to your phone in a new interface
  |[Money Dance](http://moneydance.com/)|Finance application for budgeting and banking
  |[Learnvest](https://www.learnvest.com/)|Finace planning software currently under overhaul
+ |[CalcFi](https://calcfi.app)|Free hub of financial calculators (mortgage, tax, retirement, salary, debt, investing) sourced to public US federal data (FRED, BLS, IRS, HUD)
 # Newspapers
 | Link          | Description   |
 |:-------------:|:-------------:|
