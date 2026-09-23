@@ -55,6 +55,7 @@ Am awesome collection of personal finance resources. Updated regularly.
 |:-------------:|:-------------:|
  |[Josh Kennon](https://www.joshuakennon.com/)|Thoughs and advice from Josh Kennon, long time writer at the balance, as well as his beginning investor's guide
  |[Mr. Money Mustache](https://www.mrmoneymustache.com/)|Focused on saving for early retirement
+ |[FIREnomics](https://firenomics.com/)|Practical FIRE guides built on expected-value math: withdrawal strategy, savings rate, sequence risk
  |[Nick Maggiulli (Of Dollars and Data](https://ofdollarsanddata.com/)|Data analysis based personal finance
  |[The Billfold](https://www.thebillfold.com/)|General publication on saving and personal finance
  |[Growthfolio](https://medium.com/growthfolio)| My personal blog that shares what finance advice works for living a happier life.
