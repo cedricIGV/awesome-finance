@@ -22,6 +22,7 @@ Am awesome collection of personal finance resources. Updated regularly.
  |[MoneyFarm](https://www.moneyfarm.com/uk/)|UK version of Individual Savings Accounts (ISA)
  |[Wise Banyan](https://www.wisebanyan.com/)|No fee wealth management accounts
  |[Personal Capital](https://www.personalcapital.com/)|Provides tools for you to have more data and be more informed when investing
+ |[La Plata](https://laplata.one/en/)|Research on Argentina's economy and stock market, with listed-company profiles, dated market data, financial indicators, and economic context
 # Robo Advisors
 | Link          | Description   |
 |:-------------:|:-------------:|
