@@ -42,6 +42,7 @@ Am awesome collection of personal finance resources. Updated regularly.
  |[Count About](https://countabout.com/)|Syncs quicken or mint budgets to your phone in a new interface
  |[Money Dance](http://moneydance.com/)|Finance application for budgeting and banking
  |[Learnvest](https://www.learnvest.com/)|Finace planning software currently under overhaul
+ |[Nomad Budget](https://nomadbudget.rubeeks.co/)|Multi-currency expense tracker and budgeting app for digital nomads, expats, and long-term travellers
 # Newspapers
 | Link          | Description   |
 |:-------------:|:-------------:|
