@@ -62,6 +62,7 @@ Am awesome collection of personal finance resources. Updated regularly.
 # Housing
 | Link          | Description   |
 |:-------------:|:-------------:|
+| [2027 VA Disability Rates Calculator](https://colacalculator2027.com/va-cola-2027-calculator/)|Free browser calculator for 2027 VA disability pay by rating and dependents (official 3.6% COLA)
  |[Rent vs Buy Calculator](http://www.skylineproperties.com/calculators/rent_vs_buy.php)|Calaculate costs for renting a house vs. buying
  |[Evaluating a house](https://www.reddit.com/r/AskReddit/comments/75ooiy/lets_make_an_antibucket_list_what_is_something/do80f4e/)|Thread with what to look out for when buying a house
 # Reddit
